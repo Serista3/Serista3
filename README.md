@@ -13,8 +13,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
