@@ -6,6 +6,8 @@
 
 ###
 
+<h3 align="left">Languages</h3>
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="15" />
@@ -20,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
