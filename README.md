@@ -36,6 +36,8 @@
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
 </div>
 
 ###
