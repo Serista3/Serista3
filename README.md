@@ -1,4 +1,4 @@
-<h1 align="left">Hi 💚, I'm Nickel</h1>
+<h1 align="left">Hi ❄️, I'm Nickel</h1>
 
 ###
 
@@ -51,8 +51,8 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Serista3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Serista3&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Serista3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Serista3&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
