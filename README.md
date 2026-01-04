@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm preparing to be Front end developer.</p>
+<p align="left">I'm preparing to be Web Developer.</p>
 
 ###
 
