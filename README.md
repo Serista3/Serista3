@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nickel
+# Thanapat Malikaew
 I am a third-year Information Technology student at KMITL with a strong passion for Web Developer.
 
 ## Languages
