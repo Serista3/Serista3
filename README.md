@@ -1,5 +1,5 @@
 # Thanapat Malikaew
-I am a third-year Information Technology student at KMITL with a strong passion for Web Developer.
+I am a third-year Information Technology student at KMITL with a strong passion for **Web Developer**.
 
 ## Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
