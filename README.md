@@ -19,3 +19,9 @@ I am a third-year Information Technology student at KMITL with a strong passion 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## Activities
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Serista3&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Serista3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
